@@ -36,6 +36,44 @@ I hope that my ability to learn, patience and self dedication will help me on th
 * Figma
 * Adobe Photoshop
 ***
+### Code example:
+*Write a bubble sort algorithm in JavaScript*
+```
+function bubbleSort (arr) {
+    for (let i = 0, i < arr.length - 1; i++) {
+        for (let j = 0, j < arr.length - i; j++) {
+            if (arr[j] > arr[j + 1]) {
+                let swap = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = swap;
+            }
+        }
+    }
+return arr;
+}
+```
+***
+### Courses:
+* Front-end Development courses at [Intellect Fox](https://intellectfox.by/) - *in progress*
+* JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) - *in progress*
+* RS School Course [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) - *in progress*
+***
+### Projects:
+* [Graduation project](https://github.com/AnastasyMeleshko/if-html) after HTML-CSS module on Intellect Fox courses.
+  A website for search of accommodation while traveling or working with responsive design for mobile devices and tablets.
+***
+### Languages:
+* English (Upper Intermediate)
+  * Business English courses at Streamline (*2012 - level B1, 2013 - level B2*).
+  * Part-time work as a tutor for adult girl (*from 2017 till 2019*)
+  * Business English course at EPAM (*2021 - rose my level from B2 to B2+*)
+* Russian (native)
+* Belarusian (native)
+
+![Thank you for you attention!](./Thank_You1.png)
+
+
+
 
 
 
