@@ -59,6 +59,27 @@
                             <li><img src="./img/icons/circle.png" alt="circle-icon">Belarusian (native)</li>
                         </ul>
                     </section>
+                    <section class="section-wrapper code-example">
+                        <h2 class="section-heading">Code example</h2>
+                        <p><i>Write a bubble sort algorithm in JavaScript</i></p>
+                        <br>
+                        <pre>
+                            <code>
+function bubbleSort (arr) {
+    for (let i = 0, i < arr.length - 1; i++) {
+    for (let j = 0, j < arr.length - i; j++) {
+        if (arr[j] > arr[j + 1]) {
+            let swap = arr[j];
+            arr[j] = arr[j + 1];
+            arr[j + 1] = swap;
+        }
+    }
+}
+    return arr;
+}
+                            </code>
+                        </pre>
+                    </section>
                 </main>
             </div>
             <aside class="right-column">
@@ -89,10 +110,37 @@
                         <p><b>Specialty:</b> Photojournalism</p>
                     </div>
                 </section>
-                <section class="section-wrap courses"></section>
-                <section class="section-wrap code-example"></section>
+                <section class="section-wrap courses">
+                    <div class="subheading">
+                        <img src="./img/icons/open-book.png" alt="open-book-icon">
+                        <h2>Courses</h2>
+                    </div>
+                    <ul>
+                        <li><p><img src="./img/icons/circle.png" alt="circle-icon">Front-end Development courses at <b><a
+                                href="https://intellectfox.by/">Intellect Fox</a></b> - <i> in progress</i></p></li>
+                        <li><p><img src="./img/icons/circle.png" alt="circle-icon">JavaScript Manual on <a href="https://learn.javascript.ru/"> <b>learn.javascript.ru</b></a>  -  <i> in progress</i></p></li>
+                        <li><p><img src="./img/icons/circle.png" alt="circle-icon"><a href="https://rs.school/js-stage0/"><b>RS School Course «JavaScript/Front-end. Stage 0»</b></a>  -  <i>in progress</i></p></li>
+                    </ul>
+                </section>
+                <section class="section-wrap projects">
+                    <div class="subheading">
+                        <img src="./img/icons/idea.png" alt="projects-icon">
+                        <h2>Projects</h2>
+                    </div>
+                    <ul>
+                        <li><p><img src="./img/icons/circle.png" alt="circle-icon"><a target="_blank" href="https://github.com/AnastasyMeleshko/if-html"><strong>Graduation project</strong></a> after HTML-CSS module on Intellect Fox courses.
+                            <br> A website for search of accommodation while traveling or working with responsive design for mobile devices and tablets.</p></li>
+                        <li><p><img src="./img/icons/circle.png" alt="circle-icon"><a target="_blank" href="https://github.com/AnastasyMeleshko/one-page-site"><strong>One page website</strong></a> with usage of HTML and CSS.</p></li>
+                        <li><p><img src="./img/icons/circle.png" alt="circle-icon"><a target="_blank" href="https://anastasymeleshko.github.io/dino-game/"><strong>Dino game</strong></a> with usage of Java Script.</p></li>
+                        <li><p><img src="./img/icons/circle.png" alt="circle-icon"><a target="_blank" href="https://anastasymeleshko.github.io/slider-carousel/"><strong>Slider carusel</strong></a> with usage of HTML, CSS and Java Script.</p></li>
+                        <li><p><img src="./img/icons/circle.png" alt="circle-icon"><a target="_blank" href="https://anastasymeleshko.github.io/animation-under-water/"><strong>Animation under water</strong></a> with usage of HTML and CSS</p></li>
+                    </ul>
+                </section>
             </aside>
         </div>
+        <footer>
+
+        </footer>
     </div>
 </body>
 </html>
