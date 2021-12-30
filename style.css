@@ -115,12 +115,12 @@ h2 {
 }
 
 .section-wrap {
-    padding-bottom: 25px;
+    padding-bottom: 20px;
 }
 
 .subheading {
     display: flex;
-    border-bottom: 2px solid #8a9fbb;
+    border-bottom: 5px solid #8a9fbb;
 }
 
 .subheading img {
@@ -173,4 +173,23 @@ pre {
     background-color: #ffffff;
     border-radius: 4px;
     padding: 5px;
+}
+
+footer {
+    padding: 30px;
+    background-color: #8a9fbb;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.rs-school-logo {
+    width: 100px;
+}
+
+footer p {
+    font-family: "Roboto", sans-serif;
+    align-items: center;
+    font-size: 16px;
+    line-height: 20px;
 }
