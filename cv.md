@@ -70,7 +70,7 @@ return arr;
 * Russian (native)
 * Belarusian (native)
 
-![Thank you for you attention!](./Thank_You1.png)
+![Thank you for you attention!](img/Thank_You1.png)
 
 
 
