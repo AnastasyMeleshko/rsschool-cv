@@ -10,6 +10,8 @@
 
 body {
     background-color: #bbbbbb;
+    min-width: 1084px;
+    padding: 0 30px;
 }
 
 a {
@@ -30,14 +32,15 @@ li {
 }
 
 .main-container {
-    width: 1024px;
+    max-width: 1084px;
     background-color: #ffffff;
-    margin: 20px auto;
+    margin: 30px auto;
     box-shadow: 10px 10px 40px 1px rgba(0, 0, 0, 0.2);
 }
 
 .two-colums {
     display: flex;
+    flex-wrap: nowrap;
 }
 
 .left-column {
@@ -182,7 +185,7 @@ pre {
 }
 
 footer {
-    padding: 30px;
+    padding: 20px 30px;
     background-color: #8a9fbb;
 }
 
@@ -194,6 +197,7 @@ footer {
 
 .rs-school-logo {
     width: 100px;
+    height: 30px;
 }
 
 footer p {
@@ -205,6 +209,95 @@ footer p {
 
 .youtube-link img{
     height: 30px;
+}
+
+@media (max-width: 1084px) {
+    .main-container {
+        max-width: 970px;
+        margin: 30px auto;
+    }
+
+    pre {
+        width: 100%;
+    }
+
+    code {
+        font-size: 12px;
+    }
+    .two-colums {
+        flex-wrap: nowrap;
+    }
+
+}
+
+@media (max-width: 990px) {
+    .main-container {
+        max-width: 750px;
+        margin: 30px auto;
+    }
+
+    code {
+        font-size: 13px;
+    }
+
+    pre {
+        width: 100%;
+    }
+
+    .two-colums {
+        flex-wrap: wrap;
+    }
+
+    .right-column {
+        width: 100%;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .left-column {
+        width: 100%;
+        margin: 0 auto;
+        padding-bottom: 30px;
+        display: flex;
+        flex-direction: column;
+    }
+
+}
+
+@media (max-width: 770px) {
+    .main-container {
+        max-width: 450px;
+        margin: 30px auto;
+    }
+
+    code {
+        font-size: 13px;
+    }
+
+    pre {
+        width: 100%;
+    }
+
+    .two-colums {
+        flex-wrap: wrap;
+    }
+
+    .right-column {
+        width: 100%;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .left-column {
+        width: 100%;
+        padding-bottom: 30px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+    }
+
 }
 
 
