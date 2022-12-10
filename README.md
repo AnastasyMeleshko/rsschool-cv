@@ -1,1 +1,2 @@
-https://github.com/AnastasyMeleshko/rsschool-cv/blob/gh-pages/cv.md
+*  https://anastasymeleshko.github.io/rsschool-cv/
+*  https://anastasymeleshko.github.io/rsschool-cv/cv
