@@ -6,7 +6,7 @@
 ### Contact information:
 
 * **Phone:** +375 44 7847568
-* **E-mail:** 7634907@mail.ru
+* **E-mail:** meleshkoanastasya@gmail.com
 * **Telegram:** @Anastasy Meleshko
 * [LinkedIn](https://www.linkedin.com/in/anastasya-meleshko-6104a8191/)
 * [GitHub](https://github.com/AnastasyMeleshko)
@@ -25,7 +25,7 @@ Further I went to the six-month [TeachMeSkills courses](https://teachmeskills.by
 After that, I changed my career in the direction of international finance and got a job as an international Financial Analyst at EPAM, where I worked till August 2022. Having gained about 3 years experience in the field of financial analysis, I realized that I would like to work in the field of Frontend Development. 
 This sphere impresses me with the possibility of self-realization, the vision of the result of my work and wide possibility to develop my way of thinking.
 Since October 2021, I have taken 6 months [Intellect Fox](https://intellectfox.com/) courses to renew my knowledge in the field of Frontend development and at the same time I learnt at RSS courses (0-1 stages) in EPAM in order to deepen my knowledge and become a worthy Frontend Developer in future.
-After all that I was so much interested in programming that I began to study Computer science in [EHU/EPAM School of Digital Engineering] (https://en.ehu.lt/studies/computer-science/) from Sep, 2022. So now I am in process of receiving my third hight education. 
+After all that I was so much interested in programming that I began to study Computer science in [EHU/EPAM School of Digital Engineering](https://en.ehu.lt/studies/computer-science/) from Sep, 2022. So now I am in process of receiving my third hight education. 
 RSS is best place for me to be a part of Frontend community, to take an arm on my pulse, so I am here once again to cover all my blind spots in knowledges and be better.
 
 I hope that my ability to learn, patience and self dedication will help me on this way, and I become a professional Frontend Developer.
@@ -59,7 +59,7 @@ return arr;
 ### Courses:
 * Front-end Development courses at [Intellect Fox](https://intellectfox.by/)
 * JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) 
-* RS School Course [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) - [*certificate*] (https://app.rs.school/certificate/e1n49i77) 
+* RS School Course [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) - *[certificate] (https://app.rs.school/certificate/e1n49i77)*
 ***
 ### Projects:
 * [Graduation project](https://github.com/AnastasyMeleshko/if-react) after React module on Intellect Fox courses.
