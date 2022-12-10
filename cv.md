@@ -59,7 +59,7 @@ return arr;
 ### Courses:
 * Front-end Development courses at [Intellect Fox](https://intellectfox.by/)
 * JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) 
-* RS School Course [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) - *[certificate] (https://app.rs.school/certificate/e1n49i77)*
+* RS School Course [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) - *[certificate](https://app.rs.school/certificate/e1n49i77)*
 ***
 ### Projects:
 * [Graduation project](https://github.com/AnastasyMeleshko/if-react) after React module on Intellect Fox courses.
