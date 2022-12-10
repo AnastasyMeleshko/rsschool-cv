@@ -67,7 +67,7 @@ return arr;
 ***
 ### Languages:
 * English (Upper Intermediate)
-  * Business English courses at Streamline (*2012 - level B1, 2013 - level B2*)
+  * Business English courses at Streamline (*2012 - [level B1](https://www.linkedin.com/in/anastasya-meleshko-6104a8191/overlay/1635485294661/single-media-viewer/), 2013 - [level B2](https://www.linkedin.com/in/anastasya-meleshko-6104a8191/overlay/1635485290842/single-media-viewer/)*)
   * Part-time work as a tutor for adult girl (*from 2017 till 2019*)
   * Business English course at EPAM (*2021 - rose my level from B2 to B2+*)
 * Russian (native)
